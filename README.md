@@ -1,4 +1,5 @@
 # Project3
 
-npm install 
+npm install THEN
+
 npm run dev
